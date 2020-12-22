@@ -3,3 +3,6 @@ Predicting Prices of Cars, from kaggle, Dataset from the site CarDekho.com,  usi
 
 
 ![alt text](https://github.com/anshulsingh8101/Car-Price-Prediction/blob/main/chrome_8w0G4dTWUQ.png)
+
+
+![alt text](https://github.com/anshulsingh8101/Car-Price-Prediction/blob/main/dddd.png)
